@@ -57,7 +57,7 @@
     <strong>AI Output:</strong>
     <br/>
     <br/>
-    <p>Here is a 4-week study plan to learn web development:</p>
+    <div>Here is a 4-week study plan to learn web development:</div>
     <div style="max-width: 1000px; margin: 0 auto; padding: 20px; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0f172a; color: #e2e8f0; border-radius: 16px;">
 
   <h1 style="text-align: center; color: #60a5fa; margin-bottom: 10px;">🚀 Web Development Study Plan 2026</h1>
@@ -185,19 +185,23 @@
     <strong>Your Refined Prompt:</strong>
     <br/>
     <br/>
-    <p>Act as an expert career mentor.
-<p>Create a personalized 6-week study plan to learn web development for a beginner.</p>
-<p>Details:</p>
-<p> Daily study time: 2 hours</p>
-<p> Learning style: practical + project-based</p>
-<p> Goal: Become job-ready in frontend development</p>
-<p>Requirements:</p>
-<p> Break into weekly schedule</p>
-<p> Include topics (HTML, CSS, JavaScript, React)</p>
-<p> Add daily tasks and mini-projects</p>
-<p> Suggest free resources</p>
-<p> Include revision and practice days</p>
-<p> Keep it structured and easy to follow</p>
+    <div>Act as an expert career mentor.</div>
+    <div>Create a personalized 6-week study plan to learn web development for a beginner.</div>
+    <div>Details:</div>
+    <ul>
+      <li>Daily study time: 2 hours</li>
+      <li>Learning style: practical + project-based</li>
+      <li>Goal: Become job-ready in frontend development</li>
+    </ul>
+    <div>Requirements:</div>
+    <ul>
+      <li>Break into weekly schedule</li>
+      <li>Include topics (HTML, CSS, JavaScript, React)</li>
+      <li>Add daily tasks and mini-projects</li>
+      <li>Suggest free resources</li>
+      <li>Include revision and practice days</li>
+      <li>Keep it structured and easy to follow</li>
+    </ul>
   </div>
 
   <br/>
@@ -207,7 +211,6 @@
     <strong>Improved AI Output:</strong>
     <br/>
     <br/>
-    <p>
     <div style="max-width: 1000px; margin: 0 auto; padding: 25px; font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #0f172a; color: #e2e8f0; border-radius: 16px; line-height: 1.7;">
 
   <h1 style="text-align: center; color: #60a5fa; margin-bottom: 8px;">🚀 6-Week Frontend Web Development Study Plan</h1>
@@ -353,7 +356,6 @@
   </div>
 
 </div>
-    </p>
   </div>
 </div>
 

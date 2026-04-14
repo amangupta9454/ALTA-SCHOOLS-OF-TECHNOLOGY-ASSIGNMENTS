@@ -55,9 +55,7 @@
   <h3>2️⃣ Initial AI Response</h3>
   <div style="background-color: #f0fdf4; padding: 15px; border-left: 5px solid #22863a; border-radius: 5px;">
     <strong>AI Output:</strong>
-    <br/>
-    <br/>
-    <code>
+       ```html
      <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -244,7 +242,7 @@
 
 </body>
 </html>
-</code>
+    ```
   </div>
   <h3>Output:</h3>
    <img src="https://res.cloudinary.com/dgtyqhtor/image/upload/v1776134093/Screenshot_2026-04-14_080302_zochev.png" alt="Home Page" style="max-width: 100%; height: auto; border: 1px solid #ddd;">
@@ -280,7 +278,7 @@
     <strong>Improved AI Output:</strong>
     <br/>
     <br/>
-    <code>
+    ```html
       <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -631,7 +629,7 @@
   </footer>
 </body>
 </html>
-    </code>
+    ```
     <h3>Output</h3>
        <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
         <div style="flex: 1 1 280px; background-color: #fff; padding: 15px; text-align: center; border: 1px solid #ddd;">
