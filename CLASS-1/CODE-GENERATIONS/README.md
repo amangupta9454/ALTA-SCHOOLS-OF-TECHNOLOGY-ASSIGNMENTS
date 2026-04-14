@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x150/0f172a/ffffff?text=ALTA+SCHOOL+OF+TECHNOLOGY" alt="Alta School of Technology Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dgtyqhtor/image/upload/v1776138861/download_rfcsii.jpg" alt="Alta School of Technology Banner" width="100%" />
 </div>
 
 <br/>
