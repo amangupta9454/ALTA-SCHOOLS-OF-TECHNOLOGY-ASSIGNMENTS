@@ -31,8 +31,18 @@
   </p>
   <ul>
     <li><strong>Techniques Applied:</strong> Chain-of-Thought Prompting.</li>
-    <li><strong>Key Takeaways:</strong> [Elaborate on how breaking the complex problem into smaller sequential steps helped the LLM write better code and handle edge cases. Replace this text with your reflections.]</li>
-    <li><strong>Observations:</strong> [Document any particular struggles or breakthroughs here.]</li>
+    <h3><strong>Key Takeaways:</strong></h3>
+    <li>Defining a clear role (e.g., frontend developer) improves code quality and structure</li>
+    <li>Adding specific requirements (sections, features) results in more complete implementations</li>
+    <li>Including constraints (no external libraries, responsiveness) ensures better control over output</li>
+    <li>Specifying technologies (HTML, CSS, JS) leads to more accurate code generation</li>
+    <li>Well-structured prompts produce clean, readable, and production-like code</li>
+    <h3><strong>Observations:</strong></h3>
+    <li>Basic prompts generate minimal and incomplete code</li>
+    <li>Refined prompts produce structured and feature-rich implementations</li>
+    <li>Lack of constraints leads to inconsistent or messy code output</li>
+    <li>Detailed prompts improve UI, functionality, and responsiveness</li>
+    <li>Prompt clarity directly impacts code quality and usability</li>
   </ul>
 </div>
 
