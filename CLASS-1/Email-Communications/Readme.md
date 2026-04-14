@@ -31,8 +31,9 @@
   </p>
   <ul>
     <li><strong>Techniques Applied:</strong> Role-Based Prompting and Constraints.</li>
-    <li><strong>Key Takeaways:</strong> [Elaborate on how defining rigid constraints like length and tone guided the model to a better outcome. Replace this text with your reflections.]</li>
-    <li><strong>Observations:</strong> [Document any particular struggles or breakthroughs here.]</li>
+    <li><strong>Key Takeaways:</strong> The quality of a cold referral email depends on how specific and concise it is.</li>
+    <li>Less information → generic template.</li>
+    <li>More details + clear constraints → a strong, natural, and effective email that actually gets read and replied to.</li>
   </ul>
 </div>
 
@@ -80,7 +81,7 @@
     <strong>Your Refined Prompt:</strong>
     <br/>
     <br/>
-    <p>"[Insert your fully optimized prompt here, showcasing role assignment, distinct constraints for tone, length, and the specific Call-to-Action.]"</p>
+    <p>Act as a professional recruiter. Write a short cold email to a amazon employee for a referal for mern stack role. Keep it under 120 words, include skills (React, Tailwind), and end with a call-to-action. also the candidate details are: name: aman gupta a btech 3rd year student with gpa of 7. the student is skilled in mern stack with system designing,desktop app builder and currently learning datascience with android development. the candidate done some internship and created some major projects like matrucare-ai,agri-farmio etc. the candidate have a very good research skills so that he achieved first position in national level technical paper writting competitions. the linkedin id is:https://www.linkedin.com/in/amangupta9454/ portfolio link: https://gupta-aman-portfolio.netlify.app/ resume is attached. also dont use buzzy words , heavy symbols etc. also keep it concise , to the point. also reply of this questions: ananlyze both the prompt for the same things: reply me what i changed in both prompt,why. it have 2 why and 2 what.</p>
   </div>
 
   <br/>

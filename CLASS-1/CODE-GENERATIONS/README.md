@@ -55,14 +55,13 @@
   <h3>2️⃣ Initial AI Response</h3>
   <div style="background-color: #f0fdf4; padding: 15px; border-left: 5px solid #22863a; border-radius: 5px;">
     <strong>AI Output:</strong>
-       ```html
-     <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>LaunchPad - Get Started Today</title>
-  <style>
+       <pre><code class="language-html">&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+  &lt;meta charset="UTF-8"&gt;
+  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+  &lt;title&gt;LaunchPad - Get Started Today&lt;/title&gt;
+  &lt;style&gt;
     * {
       margin: 0;
       padding: 0;
@@ -189,60 +188,59 @@
         display: none;
       }
     }
-  </style>
-</head>
-<body>
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
 
-  <header>
-    <div class="container">
-      <nav>
-        <a href="#" class="logo">LaunchPad</a>
-        <div class="nav-links">
-          <a href="#">Features</a>
-          <a href="#">Pricing</a>
-          <a href="#">Blog</a>
-          <a href="#">Contact</a>
-        </div>
-      </nav>
-    </div>
-  </header>
-  <section class="hero">
-    <div class="container">
-      <div class="hero-content">
-        <h1>Build Something<br>Amazing Today</h1>
-        <p>Simple, beautiful, and powerful landing pages in minutes. No coding skills required.</p>
-        <a href="#" class="cta-button">Get Started Free</a>
-      </div>
-    </div>
-  </section>
-  <section class="features">
-    <div class="container">
-      <h2>Why Choose LaunchPad?</h2>
-      <div class="feature-grid">
-        <div class="feature-card">
-          <h3>⚡ Lightning Fast</h3>
-          <p>Deploy your ideas in seconds with our blazing-fast infrastructure.</p>
-        </div>
-        <div class="feature-card">
-          <h3>🎨 Beautiful Design</h3>
-          <p>Stunning templates that look professional on every device.</p>
-        </div>
-        <div class="feature-card">
-          <h3>🔧 Easy to Use</h3>
-          <p>Intuitive interface designed for creators, not just developers.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-  <footer>
-    <div class="container">
-      <p>&copy; 2026 LaunchPad. Made with ❤️ for creators.</p>
-    </div>
-  </footer>
+  &lt;header&gt;
+    &lt;div class="container"&gt;
+      &lt;nav&gt;
+        &lt;a href="#" class="logo"&gt;LaunchPad&lt;/a&gt;
+        &lt;div class="nav-links"&gt;
+          &lt;a href="#"&gt;Features&lt;/a&gt;
+          &lt;a href="#"&gt;Pricing&lt;/a&gt;
+          &lt;a href="#"&gt;Blog&lt;/a&gt;
+          &lt;a href="#"&gt;Contact&lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/nav&gt;
+    &lt;/div&gt;
+  &lt;/header&gt;
+  &lt;section class="hero"&gt;
+    &lt;div class="container"&gt;
+      &lt;div class="hero-content"&gt;
+        &lt;h1&gt;Build Something&lt;br&gt;Amazing Today&lt;/h1&gt;
+        &lt;p&gt;Simple, beautiful, and powerful landing pages in minutes. No coding skills required.&lt;/p&gt;
+        &lt;a href="#" class="cta-button"&gt;Get Started Free&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+  &lt;section class="features"&gt;
+    &lt;div class="container"&gt;
+      &lt;h2&gt;Why Choose LaunchPad?&lt;/h2&gt;
+      &lt;div class="feature-grid"&gt;
+        &lt;div class="feature-card"&gt;
+          &lt;h3&gt;⚡ Lightning Fast&lt;/h3&gt;
+          &lt;p&gt;Deploy your ideas in seconds with our blazing-fast infrastructure.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="feature-card"&gt;
+          &lt;h3&gt;🎨 Beautiful Design&lt;/h3&gt;
+          &lt;p&gt;Stunning templates that look professional on every device.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="feature-card"&gt;
+          &lt;h3&gt;🔧 Easy to Use&lt;/h3&gt;
+          &lt;p&gt;Intuitive interface designed for creators, not just developers.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+  &lt;footer&gt;
+    &lt;div class="container"&gt;
+      &lt;p&gt;&copy; 2026 LaunchPad. Made with ❤️ for creators.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/footer&gt;
 
-</body>
-</html>
-    ```
+&lt;/body&gt;
+&lt;/html&gt;</code></pre>
   </div>
   <h3>Output:</h3>
    <img src="https://res.cloudinary.com/dgtyqhtor/image/upload/v1776134093/Screenshot_2026-04-14_080302_zochev.png" alt="Home Page" style="max-width: 100%; height: auto; border: 1px solid #ddd;">
@@ -278,14 +276,13 @@
     <strong>Improved AI Output:</strong>
     <br/>
     <br/>
-    ```html
-      <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nexus • AI-Powered Innovation</title>
-  <style>
+    <pre><code class="language-html">&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+  &lt;meta charset="UTF-8"&gt;
+  &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+  &lt;title&gt;Nexus • AI-Powered Innovation&lt;/title&gt;
+  &lt;style&gt;
     :root {
       --primary: #6366f1;
       --dark: #0f172a;
@@ -506,130 +503,129 @@
         justify-content: center;
       }
     }
-  </style>
-</head>
-<body>
-  <!-- Navbar -->
-  <nav>
-    <div class="nav-container">
-      <a href="#" class="logo">Nexus</a>
-      <ul class="nav-links">
-        <li><a href="#features">Features</a></li>
-        <li><a href="#about">About</a></li>
-        <li><a href="#contact">Contact</a></li>
-      </ul>
-      <div class="nav-actions">
-        <a href="#" class="btn btn-outline">Log in</a>
-        <a href="#" class="btn btn-primary">Get Started</a>
-      </div>
-    </div>
-  </nav>
-  <!-- Hero Section -->
-  <section class="hero">
-    <div class="hero-content">
-      <div class="hero-text">
-        <h1>The Future of Intelligent Workflows</h1>
-        <p>Nexus combines cutting-edge AI with beautiful design to help teams achieve more, faster. Built for the next generation of innovators.</p>
-        <div class="hero-buttons">
-          <a href="#contact" class="btn btn-primary" style="padding: 1rem 2rem; font-size: 1.1rem;">Start Free Trial</a>
-          <a href="#" class="btn btn-outline" style="color: white; border-color: white;">Watch Demo</a>
-        </div>
-      </div>
-      <div>
-        <!-- Placeholder for hero visual -->
-        <div style="background: rgba(255,255,255,0.15); height: 420px; border-radius: 24px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: rgba(255,255,255,0.8);">
+  &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+  &lt;!-- Navbar --&gt;
+  &lt;nav&gt;
+    &lt;div class="nav-container"&gt;
+      &lt;a href="#" class="logo"&gt;Nexus&lt;/a&gt;
+      &lt;ul class="nav-links"&gt;
+        &lt;li&gt;&lt;a href="#features"&gt;Features&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#about"&gt;About&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href="#contact"&gt;Contact&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+      &lt;div class="nav-actions"&gt;
+        &lt;a href="#" class="btn btn-outline"&gt;Log in&lt;/a&gt;
+        &lt;a href="#" class="btn btn-primary"&gt;Get Started&lt;/a&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/nav&gt;
+  &lt;!-- Hero Section --&gt;
+  &lt;section class="hero"&gt;
+    &lt;div class="hero-content"&gt;
+      &lt;div class="hero-text"&gt;
+        &lt;h1&gt;The Future of Intelligent Workflows&lt;/h1&gt;
+        &lt;p&gt;Nexus combines cutting-edge AI with beautiful design to help teams achieve more, faster. Built for the next generation of innovators.&lt;/p&gt;
+        &lt;div class="hero-buttons"&gt;
+          &lt;a href="#contact" class="btn btn-primary" style="padding: 1rem 2rem; font-size: 1.1rem;"&gt;Start Free Trial&lt;/a&gt;
+          &lt;a href="#" class="btn btn-outline" style="color: white; border-color: white;"&gt;Watch Demo&lt;/a&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;!-- Placeholder for hero visual --&gt;
+        &lt;div style="background: rgba(255,255,255,0.15); height: 420px; border-radius: 24px; display: flex; align-items: center; justify-content: center; font-size: 1.2rem; color: rgba(255,255,255,0.8);"&gt;
           ✨ Product Dashboard Preview
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Features Section -->
-  <section id="features" class="section">
-    <div class="container">
-      <h2 class="section-title">Powerful Features</h2>
-      <p class="section-subtitle">Everything you need to scale your business with intelligence and elegance.</p>
-      <div class="features-grid">
-        <div class="feature-card">
-          <div class="feature-icon">🚀</div>
-          <h3>AI Automation</h3>
-          <p>Automate repetitive tasks and let AI handle complex workflows with unmatched accuracy.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon">📊</div>
-          <h3>Real-time Analytics</h3>
-          <p>Beautiful dashboards with actionable insights that help you make better decisions instantly.</p>
-        </div>
-        <div class="feature-card">
-          <div class="feature-icon">🔗</div>
-          <h3>Seamless Integrations</h3>
-          <p>Connect with your favorite tools — Slack, Notion, Google Workspace, and 50+ more.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- About Section -->
-  <section id="about" class="section about">
-    <div class="container">
-      <div class="about-content">
-        <div>
-          <h2 style="font-size: 2.8rem; line-height: 1.2;">Building the future of collaborative intelligence</h2>
-          <p style="margin-top: 1.5rem; font-size: 1.15rem;">
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+  &lt;!-- Features Section --&gt;
+  &lt;section id="features" class="section"&gt;
+    &lt;div class="container"&gt;
+      &lt;h2 class="section-title"&gt;Powerful Features&lt;/h2&gt;
+      &lt;p class="section-subtitle"&gt;Everything you need to scale your business with intelligence and elegance.&lt;/p&gt;
+      &lt;div class="features-grid"&gt;
+        &lt;div class="feature-card"&gt;
+          &lt;div class="feature-icon"&gt;🚀&lt;/div&gt;
+          &lt;h3&gt;AI Automation&lt;/h3&gt;
+          &lt;p&gt;Automate repetitive tasks and let AI handle complex workflows with unmatched accuracy.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="feature-card"&gt;
+          &lt;div class="feature-icon"&gt;📊&lt;/div&gt;
+          &lt;h3&gt;Real-time Analytics&lt;/h3&gt;
+          &lt;p&gt;Beautiful dashboards with actionable insights that help you make better decisions instantly.&lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div class="feature-card"&gt;
+          &lt;div class="feature-icon"&gt;🔗&lt;/div&gt;
+          &lt;h3&gt;Seamless Integrations&lt;/h3&gt;
+          &lt;p&gt;Connect with your favorite tools — Slack, Notion, Google Workspace, and 50+ more.&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+  &lt;!-- About Section --&gt;
+  &lt;section id="about" class="section about"&gt;
+    &lt;div class="container"&gt;
+      &lt;div class="about-content"&gt;
+        &lt;div&gt;
+          &lt;h2 style="font-size: 2.8rem; line-height: 1.2;"&gt;Building the future of collaborative intelligence&lt;/h2&gt;
+          &lt;p style="margin-top: 1.5rem; font-size: 1.15rem;"&gt;
             Founded in 2024, Nexus was born from a simple idea: technology should make work feel effortless. 
             Our mission is to empower teams with intelligent tools that enhance creativity rather than replace it.
-          </p>
-          <p style="margin-top: 1rem; font-size: 1.15rem;">
+          &lt;/p&gt;
+          &lt;p style="margin-top: 1rem; font-size: 1.15rem;"&gt;
             Backed by leading venture firms and used by forward-thinking companies worldwide.
-          </p>
-        </div>
-        <div style="background: #e0e7ff; height: 380px; border-radius: 20px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #6366f1;">
+          &lt;/p&gt;
+        &lt;/div&gt;
+        &lt;div style="background: #e0e7ff; height: 380px; border-radius: 20px; display: flex; align-items: center; justify-content: center; font-size: 1.3rem; color: #6366f1;"&gt;
           Company Story Visual
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- Contact Section -->
-  <section id="contact" class="section">
-    <div class="container">
-      <h2 class="section-title">Get In Touch</h2>
-      <p class="section-subtitle">Ready to transform how your team works? Let's talk.</p>
-      <div class="contact-form">
-        <form>
-          <input type="text" placeholder="Your Name" required>
-          <input type="email" placeholder="Work Email" required>
-          <input type="text" placeholder="Company Name">
-          <textarea rows="5" placeholder="Tell us about your needs..."></textarea>
-          <button type="submit" class="btn btn-primary" style="width: 100%; padding: 1rem;">Send Message</button>
-        </form>
-      </div>
-    </div>
-  </section>
-  <!-- Footer -->
-  <footer>
-    <div class="footer-content">
-      <div>
-        <h3 style="color: white; margin-bottom: 1rem;">Nexus</h3>
-        <p>AI-powered platform for modern teams.</p>
-      </div>
-      <div>
-        <h4 style="color: white; margin-bottom: 1rem;">Product</h4>
-        <p>Features<br>Pricing<br>Enterprise</p>
-      </div>
-      <div>
-        <h4 style="color: white; margin-bottom: 1rem;">Company</h4>
-        <p>About Us<br>Careers<br>Blog</p>
-      </div>
-      <div>
-        <h4 style="color: white; margin-bottom: 1rem;">Legal</h4>
-        <p>Privacy Policy<br>Terms of Service</p>
-      </div>
-    </div>
-    <div style="text-align: center; margin-top: 60px; border-top: 1px solid #334155; padding-top: 30px;">
-      <p>&copy; 2026 Nexus. All rights reserved.</p>
-    </div>
-  </footer>
-</body>
-</html>
-    ```
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+  &lt;!-- Contact Section --&gt;
+  &lt;section id="contact" class="section"&gt;
+    &lt;div class="container"&gt;
+      &lt;h2 class="section-title"&gt;Get In Touch&lt;/h2&gt;
+      &lt;p class="section-subtitle"&gt;Ready to transform how your team works? Let's talk.&lt;/p&gt;
+      &lt;div class="contact-form"&gt;
+        &lt;form&gt;
+          &lt;input type="text" placeholder="Your Name" required&gt;
+          &lt;input type="email" placeholder="Work Email" required&gt;
+          &lt;input type="text" placeholder="Company Name"&gt;
+          &lt;textarea rows="5" placeholder="Tell us about your needs..."&gt;&lt;/textarea&gt;
+          &lt;button type="submit" class="btn btn-primary" style="width: 100%; padding: 1rem;"&gt;Send Message&lt;/button&gt;
+        &lt;/form&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/section&gt;
+  &lt;!-- Footer --&gt;
+  &lt;footer&gt;
+    &lt;div class="footer-content"&gt;
+      &lt;div&gt;
+        &lt;h3 style="color: white; margin-bottom: 1rem;"&gt;Nexus&lt;/h3&gt;
+        &lt;p&gt;AI-powered platform for modern teams.&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;h4 style="color: white; margin-bottom: 1rem;"&gt;Product&lt;/h4&gt;
+        &lt;p&gt;Features&lt;br&gt;Pricing&lt;br&gt;Enterprise&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;h4 style="color: white; margin-bottom: 1rem;"&gt;Company&lt;/h4&gt;
+        &lt;p&gt;About Us&lt;br&gt;Careers&lt;br&gt;Blog&lt;/p&gt;
+      &lt;/div&gt;
+      &lt;div&gt;
+        &lt;h4 style="color: white; margin-bottom: 1rem;"&gt;Legal&lt;/h4&gt;
+        &lt;p&gt;Privacy Policy&lt;br&gt;Terms of Service&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div style="text-align: center; margin-top: 60px; border-top: 1px solid #334155; padding-top: 30px;"&gt;
+      &lt;p&gt;&copy; 2026 Nexus. All rights reserved.&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/footer&gt;
+&lt;/body&gt;
+&lt;/html&gt;</code></pre>
     <h3>Output</h3>
        <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
         <div style="flex: 1 1 280px; background-color: #fff; padding: 15px; text-align: center; border: 1px solid #ddd;">
