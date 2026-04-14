@@ -31,8 +31,18 @@
   </p>
   <ul>
     <li><strong>Techniques Applied:</strong> All Techniques combined (Role-Based, Few-Shot, Context Constraints, etc.).</li>
-    <li><strong>Key Takeaways:</strong> [Elaborate on how combining structured questions, explicit instructions, and user personas guided the model to a better outcome. Replace this text with your reflections.]</li>
-    <li><strong>Observations:</strong> [Document any particular struggles or breakthroughs here.]</li>
+    <h3><strong>Key Takeaways:</strong></h3>
+    <li>Adding learner details like level, time, and goals improves personalization of the study plan</li>
+    <li>Defining a clear structure (weekly schedule, daily tasks) makes the plan more actionable</li>
+    <li>Including projects enhances practical learning and skill retention</li>
+    <li>Specifying learning style (theory vs practical) improves effectiveness of the plan</li>
+    <li>Well-defined prompts result in organized and easy-to-follow study paths</li>
+    <h3><strong>Observations:</strong></h3>
+    <li>Basic prompts generate generic and unstructured study plans</li>
+<li>Refined prompts produce more detailed and goal-oriented plans</li>
+<li>Adding constraints leads to better time management and consistency</li>
+<li>Structured prompts reduce confusion and improve clarity</li>
+<li>Prompt specificity directly impacts the usefulness of the learning plan</li>
   </ul>
 </div>
 

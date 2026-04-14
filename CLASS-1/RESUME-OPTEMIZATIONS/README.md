@@ -31,8 +31,18 @@
   </p>
   <ul>
     <li><strong>Techniques Applied:</strong> Role-Based Prompting and Few-Shot Learning.</li>
-    <li><strong>Key Takeaways:</strong> [Elaborate on how defining a persona and providing examples guided the model to a better outcome. Replace this text with your reflections.]</li>
-    <li><strong>Observations:</strong> [Document any particular struggles or breakthroughs here.]</li>
+    <h3><strong>Key Takeaways:</strong></h3>
+    <li>Clear role definition (e.g., “resume expert”) significantly improves output quality.</li>
+    <li>Adding constraints like bullet points and word limits makes responses more structured.</li>
+    <li>Including metrics (numbers, impact) makes resumes stronger and more professional.</li>
+    <li>Providing job-specific context helps generate targeted and relevant summaries.</li>
+    <li>Well-defined prompts lead to concise, ATS-friendly content</li> 
+    <h3><strong>Observations:</strong></h3>
+    <li>Basic prompts result in generic and less effective resume outputs</li>
+<li>Refined prompts produce more personalized and achievement-focused content</li>
+<li>Adding keywords improves matching with job descriptions</li>
+<li>Structured prompts reduce vague and unnecessary information</li>
+<li>Prompt clarity directly enhances output quality and relevance</li>
   </ul>
 </div>
 
